@@ -1,0 +1,22 @@
+{
+  "name": "page",
+  "version": "1.0.0",
+  "description": "workplace for content publishing ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huming0618/page.git"
+  },
+  "keywords": [
+    "page"
+  ],
+  "author": "Peter Hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huming0618/page/issues"
+  },
+  "homepage": "https://github.com/huming0618/page#readme"
+}
