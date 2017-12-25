@@ -18,5 +18,23 @@
   "bugs": {
     "url": "https://github.com/huming0618/page/issues"
   },
-  "homepage": "https://github.com/huming0618/page#readme"
+  "homepage": "https://github.com/huming0618/page#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "concurrently": "^3.0.0",
+    "github-api": "^2.3.0",
+    "koa-static-server": "^0.1.8",
+    "mocha": "^3.1.2",
+    "nodemon": "^1.10.2"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "hexo": "^3.4.4",
+    "koa": "^2.2.0",
+    "koa-convert": "^1.2.0",
+    "koa-cors": "0.0.16",
+    "koa-router": "^7.1.1",
+    "pg": "^6.1.0",
+    "walk": "^2.3.9"
+  }
 }
